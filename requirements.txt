@@ -1,0 +1,6 @@
+!pip install -q pypdf
+!pip install -q python-dotenv
+!pip install -q llama-index
+!pip install -q gradio
+!pip install einops
+!pip install accelerate
